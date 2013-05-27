@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/p/dsgraph/code/!svn/ver/195/DSGraph
+END
+DSTernaryTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/dsgraph/code/!svn/ver/150/DSGraph/DSTernaryTree.h
+END
+DSAllegro4.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/dsgraph/code/!svn/ver/195/DSGraph/DSAllegro4.c
+END
+DSBinaryTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/dsgraph/code/!svn/ver/150/DSGraph/DSBinaryTree.h
+END
+DSAllegroCircularList.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/dsgraph/code/!svn/ver/15/DSGraph/DSAllegroCircularList.h
+END
+DSTreeUtils.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/dsgraph/code/!svn/ver/150/DSGraph/DSTreeUtils.c
+END
+DSGraph.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/dsgraph/code/!svn/ver/178/DSGraph/DSGraph.cbp
+END
+DSQuadPointTree.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/dsgraph/code/!svn/ver/152/DSGraph/DSQuadPointTree.c
+END
+DSTreeUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/dsgraph/code/!svn/ver/150/DSGraph/DSTreeUtils.h
+END
+DSQuadPointTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/dsgraph/code/!svn/ver/150/DSGraph/DSQuadPointTree.h
+END
+DSGraph.layout
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/dsgraph/code/!svn/ver/195/DSGraph/DSGraph.layout
+END
+DSStack.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/dsgraph/code/!svn/ver/152/DSGraph/DSStack.c
+END
+DSStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/dsgraph/code/!svn/ver/150/DSGraph/DSStack.h
+END
+DSList.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/dsgraph/code/!svn/ver/192/DSGraph/DSList.c
+END
+DSMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/dsgraph/code/!svn/ver/152/DSGraph/DSMessages.h
+END
+DSGraph.depend
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/dsgraph/code/!svn/ver/195/DSGraph/DSGraph.depend
+END
+DSArray.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/dsgraph/code/!svn/ver/150/DSGraph/DSArray.c
+END
+DSPointer.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/dsgraph/code/!svn/ver/150/DSGraph/DSPointer.c
+END
+DSList.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/dsgraph/code/!svn/ver/150/DSGraph/DSList.h
+END
+DSConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/dsgraph/code/!svn/ver/178/DSGraph/DSConstants.h
+END
+DSArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/dsgraph/code/!svn/ver/150/DSGraph/DSArray.h
+END
+DSPointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/dsgraph/code/!svn/ver/150/DSGraph/DSPointer.h
+END
+saved.workspace
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/dsgraph/code/!svn/ver/1/DSGraph/saved.workspace
+END
+DSStructures.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/dsgraph/code/!svn/ver/178/DSGraph/DSStructures.h
+END
+DSAllegro.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/dsgraph/code/!svn/ver/150/DSGraph/DSAllegro.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/p/dsgraph/code/!svn/ver/178/DSGraph/main.c
+END
+DSCircularList.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/dsgraph/code/!svn/ver/29/DSGraph/DSCircularList.c
+END
+DSBTree.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/dsgraph/code/!svn/ver/182/DSGraph/DSBTree.c
+END
+DSGraph.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/dsgraph/code/!svn/ver/189/DSGraph/DSGraph.c
+END
+DSTernaryTree.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/dsgraph/code/!svn/ver/152/DSGraph/DSTernaryTree.c
+END
+DSBinaryTree.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/dsgraph/code/!svn/ver/152/DSGraph/DSBinaryTree.c
+END
+DSCircularList.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/dsgraph/code/!svn/ver/15/DSGraph/DSCircularList.h
+END
+DSGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/dsgraph/code/!svn/ver/189/DSGraph/DSGraph.h
+END
+DSAllegroCircularList.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/dsgraph/code/!svn/ver/31/DSGraph/DSAllegroCircularList.c
+END
+DSBTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/dsgraph/code/!svn/ver/178/DSGraph/DSBTree.h
+END

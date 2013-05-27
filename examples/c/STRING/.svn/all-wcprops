@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/p/dsgraph/code/!svn/ver/193/STRING
+END
+STRING.layout
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/dsgraph/code/!svn/ver/183/STRING/STRING.layout
+END
+STRING.depend
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/dsgraph/code/!svn/ver/193/STRING/STRING.depend
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/p/dsgraph/code/!svn/ver/165/STRING/main.c
+END
+STRING.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/dsgraph/code/!svn/ver/150/STRING/STRING.cbp
+END

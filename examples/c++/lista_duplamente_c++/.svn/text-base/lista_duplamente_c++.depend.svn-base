@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1356921088 source:/home/mpiuser/ufjf/dsgraph-code/lista_duplamente_c++/lista.cpp
+	"lista.h"
+	"../lib/DSGraph.h"
+	<stdio.h>
+
+1356921139 /home/mpiuser/ufjf/dsgraph-code/lista_duplamente_c++/lista.h
+	<iostream>
+	<cstdlib>
+	"../lib/DSGraph.h"
+
+1356930646 /home/mpiuser/ufjf/dsgraph-code/lib/DSGraph.h
+	<stdlib.h>
+
+1356921717 source:/home/mpiuser/ufjf/dsgraph-code/lista_duplamente_c++/main.cpp
+	<iostream>
+	"lista.h"
+	"../lib/DSGraph.h"
+
+1356983086 source:c:\users\ana carolina\desktop\dsgraph\lista_duplamente_c++\main.cpp
+	<iostream>
+	"lista.h"
+	"../lib/DSGraph.h"
+
+1356944445 c:\users\ana carolina\desktop\dsgraph\lista_duplamente_c++\lista.h
+	<iostream>
+	<cstdlib>
+	"../lib/DSGraph.h"
+
+1356944597 c:\users\ana carolina\desktop\dsgraph\lib\dsgraph.h
+	<stdlib.h>
+
+1356983104 source:c:\users\ana carolina\desktop\dsgraph\lista_duplamente_c++\lista.cpp
+	"lista.h"
+	"../lib/DSGraph.h"
+	<stdio.h>
+
+1356984075 source:c:\users\ana carolina\desktop\dsgraph ii\lista_duplamente_c++\main.cpp
+	<iostream>
+	"lista.h"
+	"../lib/DSGraph.h"
+
+1356944445 c:\users\ana carolina\desktop\dsgraph ii\lista_duplamente_c++\lista.h
+	<iostream>
+	<cstdlib>
+	"../lib/DSGraph.h"
+
+1356983765 c:\users\ana carolina\desktop\dsgraph ii\lib\dsgraph.h
+	<stdlib.h>
+
+1356983104 source:c:\users\ana carolina\desktop\dsgraph ii\lista_duplamente_c++\lista.cpp
+	"lista.h"
+	"../lib/DSGraph.h"
+	<stdio.h>
+

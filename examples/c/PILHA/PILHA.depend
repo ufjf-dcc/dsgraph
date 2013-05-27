@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1356929021 source:/home/mpiuser/ufjf/dsgraph-code/PILHA/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"../lib/DSGraph.h"
+
+1356981995 /home/mpiuser/ufjf/dsgraph-code/lib/DSGraph.h
+	<stdlib.h>
+

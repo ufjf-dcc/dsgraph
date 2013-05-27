@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1355903838 source:c:\users\ana carolina\desktop\dsgraph\arvore_binaria_c++\main.cpp
+	<iostream>
+	"arvore.h"
+	"../lib/DSGraph.h"
+
+1355915048 c:\users\ana carolina\desktop\dsgraph\arvore_binaria_c++\arvore.h
+	<iostream>
+	<cstdlib>
+	"../lib/DSGraph.h"
+
+1355903838 c:\users\ana carolina\desktop\dsgraph\lib\dsgraph.h
+	<stdlib.h>
+
+1355915481 source:c:\users\ana carolina\desktop\dsgraph\arvore_binaria_c++\arvore.cpp
+	"arvore.h"
+	"../lib/DSGraph.h"
+	<stdio.h>
+
+1356018212 source:c:\users\ana carolina\desktop\dsgraphii\arvore_binaria_c++\main.cpp
+	<iostream>
+	"arvore.h"
+	"../lib/DSGraph.h"
+
+1356018086 c:\users\ana carolina\desktop\dsgraphii\arvore_binaria_c++\arvore.h
+	<iostream>
+	<cstdlib>
+	"../lib/DSGraph.h"
+
+1356802904 c:\users\ana carolina\desktop\dsgraphii\lib\dsgraph.h
+	<stdlib.h>
+
+1356018196 source:c:\users\ana carolina\desktop\dsgraphii\arvore_binaria_c++\arvore.cpp
+	"arvore.h"
+	"../lib/DSGraph.h"
+	<stdio.h>
+

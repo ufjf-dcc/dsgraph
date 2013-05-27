@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1356812734 source:/home/mpiuser/ufjf/dsgraph-code/lista_encadeada_descritor_c++/lista_descritor.cpp
+	"lista_descritor.h"
+	"../lib/DSGraph.h"
+	<stdio.h>
+
+1356812734 /home/mpiuser/ufjf/dsgraph-code/lista_encadeada_descritor_c++/lista_descritor.h
+	<iostream>
+	<cstdlib>
+	"../lib/DSGraph.h"
+
+1356981995 /home/mpiuser/ufjf/dsgraph-code/lib/DSGraph.h
+	<stdlib.h>
+
+1356812734 source:/home/mpiuser/ufjf/dsgraph-code/lista_encadeada_descritor_c++/main.cpp
+	<iostream>
+	"lista_descritor.h"
+	"../lib/DSGraph.h"
+
+1356983645 source:c:\users\ana carolina\desktop\dsgraph ii\lista_encadeada_descritor_c++\main.cpp
+	<iostream>
+	"lista_descritor.h"
+	"../lib/DSGraph.h"
+
+1356983645 c:\users\ana carolina\desktop\dsgraph ii\lista_encadeada_descritor_c++\lista_descritor.h
+	<iostream>
+	<cstdlib>
+	"../lib/DSGraph.h"
+
+1356983765 c:\users\ana carolina\desktop\dsgraph ii\lib\dsgraph.h
+	<stdlib.h>
+
+1356983645 source:c:\users\ana carolina\desktop\dsgraph ii\lista_encadeada_descritor_c++\lista_descritor.cpp
+	"lista_descritor.h"
+	"../lib/DSGraph.h"
+	<stdio.h>
+

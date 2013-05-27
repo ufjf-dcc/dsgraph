@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1356931528 source:/home/mpiuser/ufjf/dsgraph-code/ARVORE_VERMELHA_PRETA/main.c
+	<stdio.h>
+	<stdlib.h>
+	"../lib/DSGraph.h"
+	<stdint.h>
+
+1356981995 /home/mpiuser/ufjf/dsgraph-code/lib/DSGraph.h
+	<stdlib.h>
+

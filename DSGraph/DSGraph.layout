@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="DSAllegro.h" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="DSAllegro4.c" open="1" top="1" tabpos="0">
+		<Cursor position="14992" topLine="529" />
+	</File>
+	<File name="DSArray.c" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="DSArray.h" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="DSBinaryTree.c" open="0" top="0" tabpos="7">
+		<Cursor position="163" topLine="0" />
+	</File>
+	<File name="DSBinaryTree.h" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="DSConstants.h" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="DSGraph.c" open="0" top="0" tabpos="2">
+		<Cursor position="2526" topLine="47" />
+	</File>
+	<File name="DSGraph.h" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="DSList.c" open="0" top="0" tabpos="3">
+		<Cursor position="2337" topLine="57" />
+	</File>
+	<File name="DSList.h" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="DSMessages.h" open="0" top="0" tabpos="1">
+		<Cursor position="3487" topLine="16" />
+	</File>
+	<File name="DSPointer.c" open="0" top="0" tabpos="3">
+		<Cursor position="2166" topLine="51" />
+	</File>
+	<File name="DSPointer.h" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="DSQuadPointTree.c" open="0" top="0" tabpos="5">
+		<Cursor position="1855" topLine="82" />
+	</File>
+	<File name="DSStack.c" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="DSStack.h" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="DSStructures.h" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="146" />
+	</File>
+	<File name="DSTernaryTree.c" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="DSTreeUtils.c" open="0" top="0" tabpos="2">
+		<Cursor position="909" topLine="47" />
+	</File>
+	<File name="DSTreeUtils.h" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
