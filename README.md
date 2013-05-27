@@ -1,4 +1,4 @@
-dsgraph
+DSGraph
 =======
 
 DSGraph is an C/C++ library for visualizing data structures.
